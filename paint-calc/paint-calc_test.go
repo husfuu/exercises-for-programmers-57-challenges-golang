@@ -2,12 +2,6 @@ package main
 
 import "testing"
 
-// test case
-// area = 360
-// area = 700
-// area = 300
-// area = 350
-
 type getAreaTest struct {
 	width  float64
 	length float64

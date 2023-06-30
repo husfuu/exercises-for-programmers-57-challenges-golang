@@ -32,7 +32,6 @@ func getStory(noun string, verb string, adj string, adv string) string {
 
 func main() {
 	var word string
-	fmt.Println("word 1: ", word)
 	noun := getNoun(word)
 	verb := getVerb(word)
 	adj := getAdjective(word)
